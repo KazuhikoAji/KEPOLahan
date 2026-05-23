@@ -1,3 +1,11 @@
+---
+title: KEPOLahan
+emoji: 🌍
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
 # INDONESIA
 # KEPOLAHAN 2.0 (Estimasi Harga Lahan Berbasis Spasial)
 
